@@ -11,8 +11,7 @@
   - 瑞安
   cultivar: 平陽特色羣體品種
   picking:
-  - 一芽 一葉
-  - 一芽 二葉
+  - 一芽 一二葉
   elevation:
   - 300
   - 1200
@@ -54,8 +53,7 @@
   town: 岳陽
   cultivar: 當地特色羣體品種
   picking:
-  - 一芽 一葉
-  - 一芽 二葉
+  - 一芽 一二葉
   elevation: 
   fermentation:
   - 10
@@ -138,8 +136,7 @@
   town: 霍山
   cultivar: 霍山金雞種
   picking:
-  - 一芽 一葉
-  - 一芽 二葉
+  - 一芽 一二葉
   elevation:
   - 300
   - 700
@@ -178,7 +175,7 @@
   province: 中國湖南
   town: 岳陽洞庭湖君山
   cultivar: 當地品種
-  picking: 芽頭
+  picking: 芽葉
   elevation:
   - 50
   - 63
@@ -208,7 +205,7 @@
   town: 雅安蒙山
   cultivar: 當地品種
   picking:
-  - 芽，芽頭
+  - 單芽，芽葉
   elevation:
   - 1000
   - 1400
@@ -492,7 +489,7 @@
   type: 綠茶
   family: 烘青绿茶
   province: 中國安徽
-  picking: 一芽三葉
+  picking: 一芽 三葉
   brewing:
   - type: 蓋碗泡法
     temperature:
@@ -518,8 +515,7 @@
   type: 綠茶
   province: 中國貴州
   picking:
-  - 一芽 二葉
-  - 一芽三葉
+  - 一芽 二三葉
   brewing:
   - type: 蓋碗泡法
     temperature:
@@ -546,8 +542,7 @@
   family: 炒青绿茶
   province: 中國浙江
   picking:
-  - 一芽 二葉
-  - 一芽三葉
+  - 一芽 二三葉
   brewing:
   - type: 蓋碗泡法
     temperature: 90
